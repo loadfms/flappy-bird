@@ -1,4 +1,4 @@
 export let constants = {
-  gravity: 0.25,
+  gravity: 0.55,
   deathDelay: 1000,
 };
